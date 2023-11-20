@@ -1,0 +1,26 @@
+.title {
+    height: 85vh;
+}
+
+.nav-pills > .nav-item > a{
+    color: black;
+}
+
+.profile-img {
+    border-radius: 20%;
+}
+
+.rounded-circle {
+    justify-content: center;
+}
+
+span {
+    font-weight: bold;
+}
+
+@media screen and (max-width: 770px) {
+    .row > div {
+        margin: 0;
+        padding: 0;
+    }
+}
